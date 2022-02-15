@@ -1,12 +1,20 @@
-h1 {
-    color: royalblue;
+p {
+      font-size: medium;
   }
-  h2 {
-    color: grey;
-  }
-  p {
-      font-size: larger;
-  }
-  img {
+img {
     border-radius: 50%;
   }
+body {
+    background-image: url("https://wallpaperaccess.com/full/568191.png");
+
+    background-color: #529ecc;
+
+    margin-left: 10px;
+    margin-right: 10px;
+    font-style: helvetica;
+
+    color: white;
+    border-style: dotted;
+    border: 1px solid white;
+    padding: 15px;
+    }
